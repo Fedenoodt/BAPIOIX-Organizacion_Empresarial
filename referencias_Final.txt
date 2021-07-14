@@ -2,12 +2,27 @@ Links de referencias del trabajo práctico final:
 
 
 
+Historia de la administración:
+https://www.gestiopolis.com/evolucion-del-pensamiento-administrativo-analisis-practico/
+https://www.arcgis.com/apps/Cascade/index.html?appid=1bcdb7b3e25541cb95270080c645760b
+
+Los 5 axiomas de Watzlawick:
+https://www.encora.com/es/blog/5-axioms-to-improve-your-team-communication-and-collaboration
+
 Sociedades:
 https://www.legalmondo.com/es/2017/08/argentina-la-sociedad-de-responsabilidad-limitada/
 
-Sociedad SRL: 
-http://blog.lanzatesolo.com.ar/?p=25#:~:text=Una%20Sociedad%20de%20Responsabilidad%20Limitada%20es%20un%20tipo%20de%20sociedad,el%20patrimonio%20de%20los%20socios.&text=En%20Argentina%20la%20ley%20no%20establece%20un%20capital%20m%C3%ADnimo%20para%20las%20SRL.
-https://www.argentina.gob.ar/constituir-una-sociedad-de-responsabilidad-limitada-srl
+Sociedad de Capital e Industria:
+http://www.enciclopedia-juridica.com/d/sociedad-de-capital-e-industria/sociedad-de-capital-e-industria.htm
+https://www.lifeder.com/sociedad-de-capital-e-industria/
+
+Sociedad de comandita por acciones:
+http://escribanos.org.ar/rnotarial/wp-content/uploads/2015/06/RNCba-10-1965-04-Sociedades.pdf
+https://www.muypymes.com/2019/02/20/que-es-una-sociedad-comanditaria-por-acciones
+
+Sociedad Colectiva:
+https://enciclopediaeconomica.com/sociedad-colectiva/
+https://economipedia.com/definiciones/sociedad-colectiva.html
 
 Sociedad SA:
 https://www.conceptosjuridicos.com/ar/sociedad-anonima/
@@ -17,24 +32,9 @@ Sociedad SAU:
 https://cspabogados.com.ar/reforma-a-las-sociedades-anonimas-unipersonales-en-argentina/
 https://www.argentina.gob.ar/justicia/derechofacil/leysimple/sociedad-unipersonal
 
-Sociedad de comandita por acciones:
-http://escribanos.org.ar/rnotarial/wp-content/uploads/2015/06/RNCba-10-1965-04-Sociedades.pdf
-https://www.muypymes.com/2019/02/20/que-es-una-sociedad-comanditaria-por-acciones
-
-Sociedad de Capital e Industria:
-http://www.enciclopedia-juridica.com/d/sociedad-de-capital-e-industria/sociedad-de-capital-e-industria.htm
-https://www.lifeder.com/sociedad-de-capital-e-industria/
-
-Sociedad Colectiva:
-https://enciclopediaeconomica.com/sociedad-colectiva/
-https://economipedia.com/definiciones/sociedad-colectiva.html
-
 Sociedades de la Seccion IV:
 https://archivo.consejo.org.ar/consejodigital/RC38/balonas.html
 
-Historia de la administración:
-https://www.gestiopolis.com/evolucion-del-pensamiento-administrativo-analisis-practico/
-https://www.arcgis.com/apps/Cascade/index.html?appid=1bcdb7b3e25541cb95270080c645760b
-
-Los 5 axiomas de Watzlawick:
-https://www.encora.com/es/blog/5-axioms-to-improve-your-team-communication-and-collaboration
+Sociedad SRL: 
+http://blog.lanzatesolo.com.ar/?p=25#:~:text=Una%20Sociedad%20de%20Responsabilidad%20Limitada%20es%20un%20tipo%20de%20sociedad,el%20patrimonio%20de%20los%20socios.&text=En%20Argentina%20la%20ley%20no%20establece%20un%20capital%20m%C3%ADnimo%20para%20las%20SRL.
+https://www.argentina.gob.ar/constituir-una-sociedad-de-responsabilidad-limitada-srl
